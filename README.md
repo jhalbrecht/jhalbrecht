@@ -3,7 +3,6 @@
 <!--
 **jhalbrecht/jhalbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm AKA @TheRetroWagon on twitter. https://www.theretrowagon.com/ https://wiki.theretrowagon.com/
 
 Here are some ideas to get you started:
 
@@ -16,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 Twitter @jhalbrecht
+
+I'm AKA @TheRetroWagon on twitter. https://www.theretrowagon.com/ https://wiki.theretrowagon.com/
